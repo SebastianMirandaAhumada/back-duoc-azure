@@ -1,0 +1,4 @@
+atenciones\back\controllers\AtencionController.class
+atenciones\back\BackApplication.class
+atenciones\back\security\SecurityConfig.class
+atenciones\back\model\AtencionesMedicas.class
